@@ -124,4 +124,4 @@ JsonPlaceholderDemo/
     
 6. Probar la API
     1. Ejecuta el proyecto: `dotnet run`
-    2. navega:  [`https://localhost:5001/api/posts`](https://localhost:5001/api/posts)
+    2. navega:  [`https://localhost:{PORT}/api/posts`](https://localhost:{PORT}/api/posts)
