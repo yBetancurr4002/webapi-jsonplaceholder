@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "NJds8IfVv+eSQYQaXhMdSsgeB2wfg4Tt6ZRRMbvr6+0=",
+  "Hash": "Omz03Ad22mYqgXbD0bHhD1Xmdvr+LTKn5GRp9ZjsRAQ=",
   "Source": "JsonPlaceholderDemo",
   "BasePath": "_content/JsonPlaceholderDemo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
